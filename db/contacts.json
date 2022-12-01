@@ -18,12 +18,6 @@
     "phone": "(501) 472-5218"
   },
   {
-    "id": "6",
-    "name": "Abbot Franks",
-    "email": "scelerisque@magnis.org",
-    "phone": "(186) 568-3720"
-  },
-  {
     "id": "8",
     "name": "Simon Morton",
     "email": "dui.Fusce.diam@Donec.com",
@@ -43,6 +37,12 @@
   },
   {
     "id": "A4y43eMqjJu211jvYHwrp",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "WZkewoTTl-qsIUBLkESzu",
     "name": "Mango",
     "email": "mango@gmail.com",
     "phone": "322-22-22"
